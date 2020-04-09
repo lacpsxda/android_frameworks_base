@@ -245,7 +245,7 @@
   <string name="force_stop_dlg_text">Se você forçar a interrupção de um aplicativo, ele pode apresentar mau funcionamento.</string>
   <string name="dlg_ok">Ok</string>
   <string name="dlg_cancel">Cancelar</string>
-  <string name="kill">Matar aplicativo</string>
+  <string name="kill">Matar</string>
   <!-- OmniJAWS -->
   <string name="omnijaws_service_error">Erro</string>
   <string name="omnijaws_service_unkown">Sem informações meteorológicas</string>
